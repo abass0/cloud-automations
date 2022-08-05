@@ -8,3 +8,4 @@
       state: absent
       filters:
         instance-state-name: running
+        zone: us-east-2
