@@ -10,8 +10,8 @@
      image: ami-092b43193629811af
      region: us-east-2
      keypair_name: lab
-     count: 1
-     vm_name: linux
+     #count: 1
+     #vm_name: linux
 
    tasks:  
        
